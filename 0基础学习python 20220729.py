@@ -9,5 +9,8 @@ elif guess==1:
 else:
     print("猜错啦，小甲鱼现在心里想的是8!")
 print("游戏结束,不玩啦^_^")
+print('hello world')
+
+
 
       
